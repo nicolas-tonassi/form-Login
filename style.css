@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(7, 9, 120);
+}
+label{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin:0.5rem;
+    font-family:Georgia;
+}
+button{
+border: 0;
+  line-height: 2.5;
+  padding: 0 30px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px rgb(238, 2, 255);
+  border-radius: 10px;
+  background-color: rgb(19, 128, 253);
+  background-image: linear-gradient(to top l)
+ 
+}
+ 
+h1{
+color:white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-shadow: 1px 1px 1px rgb(15, 11, 15);}
+
+input{
+
+    width:%;
+}
