@@ -4,7 +4,7 @@
 * [Descrição](#descrição)
 * [Introdução](#introdução)
 * [Funcionalidades](#funcionalidades)
-* [Tecnologias Utilidades](#tecnologias-utilizadas)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Fontes Consultadas](#fontes-consultadas)
 * [Autores](#autores)
 
