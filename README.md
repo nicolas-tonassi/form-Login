@@ -19,7 +19,7 @@
 <img src= "imagem_formlog.png">
 
 ## Funcionalidades 🧠
-- Aprender a construir formulário para cadstro em sites de Ecommerce em HTML5
+- Aprender a construir formulário de login
 
 ## Tecnologias Utilizadas 🖥️   
 - Visual Studio Code; 
