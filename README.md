@@ -19,7 +19,7 @@
 <img src= "imagem_formlog.png">
 
 ## Funcionalidades 🧠
-- Aprender a construir formulário de login em HTML5___
+- Aprender a construir formulário de login em HTML5
 
 ## Tecnologias Utilizadas 🖥️   
 - Visual Studio Code; 
